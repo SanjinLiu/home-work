@@ -11,3 +11,4 @@ hahah
 6.VScode 点击推送到...（指定的网站或库）/vscode点击push发布（默认库）/git push origin master
 7.更新内容后pull
 8.保存ctrl+s
+OIREUGORI]I04ITK ;ROG0RIG-0RKK
