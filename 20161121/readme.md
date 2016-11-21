@@ -9,6 +9,5 @@ hahah
 4.查看终端 ctrl+`
 5.编辑内容，左上角输入消息/ git commit -m "消息的内容"
 6.VScode 点击推送到...（指定的网站或库）/vscode点击push发布（默认库）/git push origin master
-7.更新内容后pull
+7.更新内容 pull
 8.保存ctrl+s
-OIREUGORI]I04ITK ;ROG0RIG-0RKK
