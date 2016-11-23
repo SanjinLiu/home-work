@@ -1,0 +1,60 @@
+body{
+    font-size: 15px;
+    font-family: "Microsoft YaHei"
+}
+#user{
+    width:390px;
+    margin: 42px 100px;
+    border:1px solid #C0C0C0;
+    height: 55px;
+    line-height: 55px;
+}
+.consent{
+    margin-left: 40px;
+    font-size: 15px;
+}
+.consent1{
+     border:none;
+     margin:0px 0px 0px 25px;
+     font-size: 15px;
+}
+.consent2{
+    border: 20px;
+    margin: 0px 0px 0px 20px;
+    width: 130px;
+    font-size: 15px;
+}
+#user img{
+    width: 135px;
+    height:30px;
+}
+.consent0{
+    background-color:#C0C0C0;
+    padding: 12px;
+    font-size: 15px;
+}
+#option{
+     width:390px;
+     margin: 5px 100px;
+     height:25px;
+     line-height:25px;
+     font-size: 15px;
+}
+.link{
+     text-decoration:none;
+}
+#btn{
+    width:390px;
+    margin: 30px 100px;
+    height: 55px;
+    line-height:55px;
+    background-color:#f00;
+    font-size: 10px;
+}
+.or{
+    margin: 0px 0px 0px 410px;
+}
+.email{
+    color: #38f;
+    text-decoration: none;
+}
