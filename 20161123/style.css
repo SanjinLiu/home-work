@@ -4,10 +4,13 @@ body{
 }
 #user{
     width:390px;
-    margin: 42px 100px;
+    margin: 0px 100px;
     border:1px solid #C0C0C0;
     height: 55px;
     line-height: 55px;
+}
+.margin{
+    height: 40px;
 }
 .consent{
     margin-left: 40px;
